@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DecisionTreeEmployeeChurn", "DecisionTreeEmployeeChurn\DecisionTreeEmployeeChurn.pyproj", "{7599A529-6DF4-48C7-9180-9B8C0DA96D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7599A529-6DF4-48C7-9180-9B8C0DA96D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7599A529-6DF4-48C7-9180-9B8C0DA96D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF8C291-756F-4B53-A455-3BC3C82DEB4F}
+	EndGlobalSection
+EndGlobal
